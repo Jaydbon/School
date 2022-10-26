@@ -1,9 +1,3 @@
-# Jayden Barber
-# 2022 5 04
-# Barber_Jayden-Convert.py
-# this program converts imperial and metric
-
-
 # ********* Variables ************
 userExit = True
 runLoop = True
