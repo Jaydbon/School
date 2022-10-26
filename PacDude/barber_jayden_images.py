@@ -1,11 +1,4 @@
-# Jayden Barber
-# 2022 2 05
-# barber_jayden_images.py
-# This is a game about a pacman and a ghost
-
-
 import random
-from tkinter.messagebox import YES
 import pygame
 pygame.init()
 win_W,win_H = 800,800
