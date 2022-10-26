@@ -1,7 +1,3 @@
-# Jayden Barber
-# 2022 04 21
-# pygame.py
-# this program works with pygame
 import pygame         # tell it to use the pygame library of code
 
 pygame.init()                       # activate it
