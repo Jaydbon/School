@@ -1,7 +1,3 @@
-# Jayden Barber
-# 2022 05 01
-# Barber_Jayden_pong.py
-# this program is a pygame version of pong
 import random
 import pygame
 pygame.init()
